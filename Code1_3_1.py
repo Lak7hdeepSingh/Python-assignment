@@ -12,6 +12,6 @@ t = F/A
 
 # print the force
 
-print("Force:",f)
+print(f"Force: {f:.2f}")
 # print the Shear stress
 print(f"Shear stress: {t :. 2f}")
